@@ -1,0 +1,14 @@
+__pycache__/
+.ipynb_checkpoints
+data/
+model/
+**/models/
+**/__pycache__/
+# *.ipynb
+# models/
+*.pt
+*.png
+*.json
+*.csv
+*.npy
+*.filepart
